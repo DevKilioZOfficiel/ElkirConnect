@@ -1,0 +1,18 @@
+{
+  "contact_email": "contact@dev-time.eu",
+  "contact_address": "Carvin, 62220",
+  "identifiers": [{
+    "name": "Dev-TimeEU",
+    "value": "N/A"
+  }],
+  "version": "1.0",
+  "ext": {
+    "notice": "This file is a beta and is unverified."
+  },
+  "sellers": [
+  {
+    "sellerId": "pub-7913327885865387",
+    "sellerType": "PUBLISHER",
+    "name": "Dev-TimeEU"
+  }]
+}
